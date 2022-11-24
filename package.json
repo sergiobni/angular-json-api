@@ -1,0 +1,28 @@
+{
+  "name": "angular-json-api",
+  "version": "0.0.1",
+  "description": "Ejemplo api json server",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "runstart": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergiobni/angular-json-api.git"
+  },
+  "keywords": [
+    "json",
+    "api",
+    "server"
+  ],
+  "author": "Sergio Julio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sergiobni/angular-json-api/issues"
+  },
+  "homepage": "https://github.com/sergiobni/angular-json-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
